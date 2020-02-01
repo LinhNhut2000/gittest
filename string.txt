@@ -1,8 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 hello world
-change the world
-=======
->>>>>>> parent of a82d172... edit file string.txt
-=======
->>>>>>> parent of a82d172... edit file string.txt
